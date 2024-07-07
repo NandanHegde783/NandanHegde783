@@ -1,5 +1,6 @@
 ## Hi there👋
 ## I'm NandanHedge783. 
+## - 🌱 I’m currently learning Data Science and Machine Learning
 <!--
 **NandanHegde783/NandanHegde783** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
